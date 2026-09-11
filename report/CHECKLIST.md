@@ -23,5 +23,5 @@
 - [x] **Step 14:** "What's Misleading About My Headline Number" section written based on 6 checks.
 - [x] **Step 14.5:** System Design write-up `report/SYSTEM_DESIGN.md`.
 - [x] **Step 15:** Final Report written (max 6 pages or README section).
-- [ ] **Step 16:** Decision Log `report/decision_log.md` with 10-15 key judgment calls.
+- [x] **Step 16:** Decision Log `report/decision_log.md` with 10-15 key judgment calls.
 - [ ] **Step 17:** `README.md` updated with exact run commands and a `CITATIONS.md` file.
