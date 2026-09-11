@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@120465 シーズン7をプライム会員で見れないのか…\nHuluではシーズン8まで見れるのですが… https://t.co/8r0aRScUtx\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"PRODUCT_INQUIRY\",\n  \"ideal_reply\": \"ご不便をおかけして申し訳ありません。現在、Prime Videoではシーズン7の配信が行われていない可能性があります。配信開始時期や地域制限については、公式サイトやサポートページをご確認いただくか、こちらから最新情報をご案内いたしますので、どうぞご利用ください。\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

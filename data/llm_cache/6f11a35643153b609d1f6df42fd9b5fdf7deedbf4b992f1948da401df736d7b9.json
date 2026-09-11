@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@AmazonHelp Que mi pedido sigue pendiente cuando lo realice el dia de ayer con el envio de un dia\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"DELIVERY_DELAY\",\n  \"ideal_reply\": \"Lamentamos que su pedido aún esté pendiente. Por favor, revise el número de seguimiento en su cuenta o envíenos el ID del pedido para que podamos verificar el estado y acelerar la entrega.\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

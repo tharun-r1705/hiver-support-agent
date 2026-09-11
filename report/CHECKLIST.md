@@ -1,0 +1,27 @@
+# Hiver SDE Intern Assignment - Deliverable Checklist
+
+- [x] **Step 1:** GitHub Repo with specific folder structure (`/data`, `/notebooks`, `/src`, `/eval`, `/eval_data`, `/report`), `README.md`, `.gitignore`, `LICENSE`.
+- [x] **Step 1:** Virtual environment setup and `requirements.txt`.
+- [x] **Step 1:** LLM API cache wrapper (`src/llm_cache.py`) and sanity check script (`src/sanity_check.py`).
+- [x] **Step 2:** Downloaded, filtered, and subsampled dataset (`data/processed/{brand}_threads.parquet`).
+- [x] **Step 2:** `data/README.md` documenting dataset processing and brand choice reasoning.
+- [x] **Step 3:** `notebooks/reading_notes.md` with observations from reading 100+ threads.
+- [x] **Step 3:** Quantitative EDA (notebook/script) on message lengths, response rates, etc.
+- [x] **Step 3:** Half-page EDA summary (to be included in the report's "problem framing").
+- [x] **Step 4:** Intent taxonomy documented in `src/intents/taxonomy.md` (6-12 intents, definitions, examples, out-of-scope note).
+- [ ] **Step 5:** Golden evaluation set `eval_data/golden_set.csv` (150-250 rows with intent, ideal_reply, should_escalate, escalation_reason).
+- [ ] **Step 5:** `eval_data/SAMPLING_NOTE.md` detailing sampling, labeling process, and self-agreement rate.
+- [ ] **Step 6:** Trivial baseline metrics saved to `eval_data/baseline_trivial.json`.
+- [ ] **Step 7:** Simple baseline metrics saved to `eval_data/baseline_simple.json`.
+- [ ] **Step 8:** Retrieval index implemented and functioning.
+- [ ] **Step 9:** Intent classification implemented and evaluated against golden set baselines.
+- [ ] **Step 10:** Grounded reply generation implemented and saved to `eval_data/generated_replies.csv`.
+- [ ] **Step 11:** Escalation decision logic implemented and evaluated for precision/recall.
+- [ ] **Step 12:** End-to-end evaluation harness `src/eval/run_eval.py`.
+- [ ] **Step 12:** LLM-as-judge built, run, validated, and results saved to `eval_data/judge_results.csv`.
+- [ ] **Step 13:** Failure analysis with 5 distinct failure modes and examples.
+- [ ] **Step 14:** "What's Misleading About My Headline Number" section written based on 6 checks.
+- [ ] **Step 14.5:** System Design write-up `report/SYSTEM_DESIGN.md`.
+- [ ] **Step 15:** Final Report written (max 6 pages or README section).
+- [ ] **Step 16:** Decision Log `report/decision_log.md` with 10-15 key judgment calls.
+- [ ] **Step 17:** `README.md` updated with exact run commands and a `CITATIONS.md` file.

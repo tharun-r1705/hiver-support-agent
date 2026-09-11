@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\nAmazonで注文して今日の午前中届く予定だったのに、荷物の現在地は埼玉県って…\nいつになったら届くんや〜（ ;  ; ）\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"DELIVERY_DELAY\",\n  \"ideal_reply\": \"ご不便をおかけして申し訳ありません。ご注文番号をご教示いただければ、現在の配送状況を確認し、到着予定日時をご案内いたします。\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

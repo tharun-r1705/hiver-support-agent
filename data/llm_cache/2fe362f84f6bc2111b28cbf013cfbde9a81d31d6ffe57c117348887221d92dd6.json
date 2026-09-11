@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@AmazonHelp bah j'avais PAS ete voir... EST ce pour autant qu'on peut pas essayer de comprendre ce qui a pu se passer??\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"MISSING_PACKAGE\",\n  \"ideal_reply\": \"Bonjour, nous sommes désolés pour ce désagrément. Pouvez-vous nous communiquer votre numéro de commande afin que nous puissions vérifier ce qui s’est passé et vous aider au plus vite ?\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}
