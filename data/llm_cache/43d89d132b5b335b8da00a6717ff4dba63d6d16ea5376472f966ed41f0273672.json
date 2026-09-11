@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support routing agent.\nAnalyze the following customer tweet and decide if it needs to be escalated to a human agent.\nUsually, issues like missing packages, account/payment problems, and refunds require escalation because they need secure account access. Simple product inquiries or delivery delays often do not unless they are highly frustrated.\n\nCustomer Tweet:\n@115821 someone stole my package!!!\n\nRespond ONLY with valid JSON containing two keys:\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why (or empty if false)\n",
+  "response": "{\n  \"should_escalate\": true,\n  \"escalation_reason\": \"The customer reports a stolen/missing package, which requires account verification and potential refund or replacement, thus needing human intervention.\"\n}"
+}

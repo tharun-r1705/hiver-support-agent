@@ -16,7 +16,7 @@
 - [x] **Step 8:** Retrieval index implemented and functioning.
 - [x] **Step 9:** Intent classification implemented and evaluated against golden set baselines.
 - [x] **Step 10:** Grounded reply generation implemented and saved to `eval_data/generated_replies.csv`.
-- [ ] **Step 11:** Escalation decision logic implemented and evaluated for precision/recall.
+- [x] **Step 11:** Escalation decision logic implemented and evaluated for precision/recall.
 - [ ] **Step 12:** End-to-end evaluation harness `src/eval/run_eval.py`.
 - [ ] **Step 12:** LLM-as-judge built, run, validated, and results saved to `eval_data/judge_results.csv`.
 - [ ] **Step 13:** Failure analysis with 5 distinct failure modes and examples.
