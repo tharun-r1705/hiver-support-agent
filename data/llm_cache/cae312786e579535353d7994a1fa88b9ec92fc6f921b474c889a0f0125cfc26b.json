@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp Was Really excited about the Orzly tempered glass. Heard a lot about it 😞\nAmazonHelp: @453867 That's unexpected! As you've contacted our support team, please do keep us posted for further correspondence. ^BS\n\nExample 2:\nCustomer: @AmazonHelp It was a \"transit delay\" cited as the reason.\nAmazonHelp: @74273 Were we able to provide you with a new delivery date? ^CO\n\n\nCustomer Tweet:\n@AmazonHelp Was Really excited about the Orzly tempered glass. Heard a lot about it 😞\n\nYour Reply:\n",
+  "response": "@Customer We're sorry to hear the Orzly tempered glass didn’t live up to the hype. Please DM us your order number so we can make this right. ^BS"
+}

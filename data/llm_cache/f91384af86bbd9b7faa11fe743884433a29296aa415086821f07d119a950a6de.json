@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp pcのみですか！タブレットではどうやっても無理…ですよね？\nAmazonHelp: @795067 「PCサイト」への切り替えが可能である場合は、お手数ですが、お試しください。TN\n\nExample 2:\nCustomer: @AmazonHelp ???\nAmazonHelp: @174404 Meld dich doch bitte mal über https://t.co/ohyvGrpvrY, die Kollegen werden mit dir die möglichen Lösungen besprechen. ^AS\n\n\nCustomer Tweet:\n@AmazonHelp pcのみですか！タブレットではどうやっても無理…ですよね？\n\nYour Reply:\n",
+  "response": "@795067 タブレットでもご利用いただけますので、ブラウザのメニューから「PCサイト」へ切り替えてみてください。うまくいかない場合はご連絡ください。TN"
+}

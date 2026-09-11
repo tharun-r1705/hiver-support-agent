@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp Yes - I spoke with them this morning. They said it was delivered and that's it. Contacted ups for help too.\nAmazonHelp: @327622 Can you tell us what info UPS had provided you? ^AC\n\nExample 2:\nCustomer: @AmazonHelp Yes, I spoke to advisors both yesterday afternoon and this morning and was told it's normal, nothing to worry about and they would monitor it.\nAmazonHelp: @226772 I see. Thanks for confirming. Was any other information provided? ^DC\n\n\nCustomer Tweet:\n@AmazonHelp Yes - I spoke with them this morning. They said it was delivered and that's it. Contacted ups for help too.\n\nYour Reply:\n",
+  "response": "@Customer Can you tell us what info UPS provided you? ^AC"
+}

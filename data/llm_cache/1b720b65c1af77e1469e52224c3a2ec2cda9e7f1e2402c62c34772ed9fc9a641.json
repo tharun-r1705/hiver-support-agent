@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp Sugiero que cambies la foto puede conllevar a confusión ya que esa opinión es de hace meses. Gracias por responder. Como siempre de 10\nAmazonHelp: @221303 Estamos para servirte, Fran. ¡Saludos! ^LC\n\nExample 2:\nCustomer: @AmazonHelp Así es, gracias por la información.\nAmazonHelp: @129963 Con gusto, Luis, ¡estamos para ayudar! ^CR\n\n\nCustomer Tweet:\n@AmazonHelp Sugiero que cambies la foto puede conllevar a confusión ya que esa opinión es de hace meses. Gracias por responder. Como siempre de 10\n\nYour Reply:\n",
+  "response": "@221303 Gracias por tu sugerencia, estamos para servirte. ¡Saludos! ^LC"
+}

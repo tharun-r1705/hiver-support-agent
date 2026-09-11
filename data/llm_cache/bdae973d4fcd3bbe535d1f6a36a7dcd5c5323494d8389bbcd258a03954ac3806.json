@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp não, só não apareceu a página de login para fazer o pagamento\nAmazonHelp: @144463 Débora, neste caso sugiro entrar em contato com o nosso SAC, acessando o seguinte link: https://t.co/qGpkDwGRhX. ^NB\n\nExample 2:\nCustomer: @AmazonHelp De Volta Para o Futuro!\nAmazonHelp: @144616 Que legal! Então me diga, assim que terminar  \"De Volta Para o Futuro\", já sabe qual outro livro vai ler? 🤔😉 ^NB\n\n\nCustomer Tweet:\n@AmazonHelp não, só não apareceu a página de login para fazer o pagamento\n\nYour Reply:\n",
+  "response": "@144463 Sentimos muito pelo inconveniente. Por favor, entre em contato com o nosso SAC através deste link: https://t.co/qGpkDwGRhX. ^NB"
+}

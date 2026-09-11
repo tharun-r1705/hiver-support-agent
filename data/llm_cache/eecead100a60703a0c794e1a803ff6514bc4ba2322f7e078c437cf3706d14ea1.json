@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp Order #\n\n402-7859196-8853961\nAmazonHelp: @308334 This being a social media platform we wouldn't have access to your account details. Please share your details (1/3) ^ST\n\nExample 2:\nCustomer: @AmazonHelp Order # 402-6873700-4019561\nAmazonHelp: @442154 details via the secure link mentioned earlier. We’ll look into it. Also, please don’t provide your account details as 2/3 ^SB\n\n\nCustomer Tweet:\n@AmazonHelp Order #\n\n402-7859196-8853961\n\nYour Reply:\n",
+  "response": "We’re sorry you’re having trouble with order #402‑7859196‑8853961. For your security, please send us the order details via the secure link we’ve shared in a direct message. We’ll investigate right away. Thank you!"
+}

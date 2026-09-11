@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp これ21日の所に線はいってますが21日には届かないってことですか？ https://t.co/4teQhnbohD\nAmazonHelp: @416297 21日から23日の間がお届け予定という表示です。心待ちにされておりますところ恐れ入りますが、お待ちいただきますようお願いいたします。SK\n\nExample 2:\nCustomer: @AmazonHelp https://t.co/TqNkEPeOc2\nAmazonHelp: @268374 That's strange. Please reply to the email sent by our team with your concern and we'll have a look into it. 1/2 ^RS\n\n\nCustomer Tweet:\n@AmazonHelp これ21日の所に線はいってますが21日には届かないってことですか？ https://t.co/4teQhnbohD\n\nYour Reply:\n",
+  "response": "@416297 21日から23日の間がお届け予定と表示されています。ご期待いただいているところ恐縮ですが、もうしばらくお待ちいただけますようお願いいたします。SK"
+}

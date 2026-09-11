@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp hi there, i was just wondering if i could get an amazon prime refund?\nAmazonHelp: @581625 Hey there, Jennifer! You can cancel the Prime Membership &amp; determine your refund eligibility here: https://t.co/H2LN8vo4vV ^WJ\n\nExample 2:\nCustomer: @AmazonHelp Hi Amazon, could I get some assistance please?\nAmazonHelp: @665053 We'd be happy to help any way we can! Without providing any account details, can you let us know what's going on? ^BV\n\n\nCustomer Tweet:\n@AmazonHelp hi there, i was just wondering if i could get an amazon prime refund?\n\nYour Reply:\n",
+  "response": "@Customer Hey there! You can cancel your Prime Membership & check refund eligibility here: https://t.co/H2LN8vo4vV ^WJ"
+}

@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp is the offer available till tomorrow 4th of December till 12?\nAmazonHelp: @150316 We've responded to you here: https://t.co/ewwqvNJHQW. Kindly check the correspondence and reply for further assistance. ^PR\n\nExample 2:\nCustomer: @AmazonHelp whats is the status of my refund?\nAmazonHelp: @320839 Please fill this form: https://t.co/beaaDm0muc and we'll get back to you with an update soon. ^RS\n\n\nCustomer Tweet:\n@AmazonHelp is the offer available till tomorrow 4th of December till 12?\n\nYour Reply:\n",
+  "response": "@150316 We’ve responded to you here: https://t.co/ewwqvNJHQW. Kindly check the correspondence and reply for further assistance. ^PR"
+}

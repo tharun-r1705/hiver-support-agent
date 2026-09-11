@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp Oi, eu consegui. Mas obg!\nAmazonHelp: @488576 Nada! Estamos para te ajudar sempre que precisar da gente! ^JJ 😍📚☕️\n\nExample 2:\nCustomer: @AmazonHelp Amazon EU\nAmazonHelp: @739221 Le suivi montre que la commande n'a toujours pas été expédiée ? ^AR\n\n\nCustomer Tweet:\n@AmazonHelp Oi, eu consegui. Mas obg!\n\nYour Reply:\n",
+  "response": "@488576 Nada! Estamos para te ajudar sempre que precisar da gente! ^JJ 😍📚☕️"
+}

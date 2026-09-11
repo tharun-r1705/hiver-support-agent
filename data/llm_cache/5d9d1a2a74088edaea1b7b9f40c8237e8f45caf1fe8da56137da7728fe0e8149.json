@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp O favorito não mas está no top 3. Sempre quis ler essa história e ver essa visão diferente.\nAmazonHelp: @233297 E qual seria o favorito, então? 😃 ^NP\n\nExample 2:\nCustomer: @AmazonHelp Não, o cartão está normal.\nAmazonHelp: @700001 Roberta, em relação ao pedido cancelado, você pode ficar tranquila sabendo que não vamos cobrar ele, poderia aparecer uma autorização mas a mesma será removida de acordo com as políticas do banco. (1/2)\n\n\nCustomer Tweet:\n@AmazonHelp O favorito não mas está no top 3. Sempre quis ler essa história e ver essa visão diferente.\n\nYour Reply:\n",
+  "response": "@user Que ótimo que está no top 3! Qual seria o seu favorito? 😃 ^NP"
+}

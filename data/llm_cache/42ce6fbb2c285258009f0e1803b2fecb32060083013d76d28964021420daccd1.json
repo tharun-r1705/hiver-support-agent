@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp 先ほど拝見しました。\nわざわざ、ありがとうございます。\nAmazonHelp: @412606 とんでもないことです。\n今後ともご利用の際に何かお困りのことやご不明点があれば、いつでもご遠慮なくお問い合わせください。 RI\n\nExample 2:\nCustomer: @AmazonHelp ありがとうございます！\nAmazonHelp: @384570 恐れ入ります、どうぞよろしくお願いいたします。　リプライありがとうございました。　SM\n\n\nCustomer Tweet:\n@AmazonHelp 先ほど拝見しました。\nわざわざ、ありがとうございます。\n\nYour Reply:\n",
+  "response": "@お客様 とんでもないことです。今後ともご利用の際にご不明点やお困りごとがございましたら、いつでもお気軽にお問い合わせください。RI"
+}

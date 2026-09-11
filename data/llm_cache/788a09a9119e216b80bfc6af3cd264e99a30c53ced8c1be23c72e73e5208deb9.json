@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp or sorry there was one update the expected delivery date moved to the 13th\nAmazonHelp: @663792 Thank you for confirming! Were you given a reason for the delivery date being moved to the 13th? Please let us know! ^FD\n\nExample 2:\nCustomer: @AmazonHelp The delivery date provided was November 17\nAmazonHelp: @698688 Have we sent any information about what caused the delay via e-mail? ^TR\n\n\nCustomer Tweet:\n@AmazonHelp or sorry there was one update the expected delivery date moved to the 13th\n\nYour Reply:\n",
+  "response": "Thank you for confirming! Were you given a reason for the delivery date being moved to the 13th? Please let us know! ^FD"
+}

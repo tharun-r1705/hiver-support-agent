@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @119625 Please upload south movies in hindi audio\nAmazonHelp: @356781 I understand your concern, Nehal. I'll pass along your feedback to the team concerned for review. ^HD\n\nExample 2:\nCustomer: @119625 please add kochikame cartoon series in Hindi\nAmazonHelp: @446263 We will continue to add new content. Keep checking https://t.co/FYM9PIZOR8 where we highlight the latest movies (1/2) ^BS\n\n\nCustomer Tweet:\n@119625 Please upload south movies in hindi audio\n\nYour Reply:\n",
+  "response": "@119625 I understand your request for Hindi audio on South movies. I’ll pass your feedback along to the team for review. Thank you! ^HD"
+}

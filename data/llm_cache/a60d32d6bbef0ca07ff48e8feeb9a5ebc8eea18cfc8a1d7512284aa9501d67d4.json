@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp  https://t.co/vwJa3txmis\nAmazonHelp: @359997 2/2 Next, pause the title and look for the Subtitles or CC option in your screen to toggle them on/off. ^BH\n\nExample 2:\nCustomer: @AmazonHelp https://t.co/TqNkEPeOc2\nAmazonHelp: @268374 That's strange. Please reply to the email sent by our team with your concern and we'll have a look into it. 1/2 ^RS\n\n\nCustomer Tweet:\n@AmazonHelp  https://t.co/vwJa3txmis\n\nYour Reply:\n",
+  "response": "@AmazonHelp We’re sorry you’re experiencing an issue. Please DM us the order number or details of the problem and we’ll help you right away. 🙏"
+}

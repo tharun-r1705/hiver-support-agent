@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: The @115821 FireTV app doesn't work on the @1647 S8+\nAmazonHelp: @130147 I'm sorry for the trouble! Just to clarify, are you trying to use the Fire TV remote app? ^KP\n\nExample 2:\nCustomer: @AmazonHelp Uninstalled and reinstalled. Same problem. Better pull the app than to have one that doesn’t work @115821 @116618 @117014\nAmazonHelp: @308061 Sorry, please contact us here: https://t.co/hApLpMlfHN so this can be investigated further. ^JJ\n\n\nCustomer Tweet:\nThe @115821 FireTV app doesn't work on the @1647 S8+\n\nYour Reply:\n",
+  "response": "@115821 I'm sorry for the trouble! Just to clarify, are you trying to use the Fire TV remote app? ^KP"
+}

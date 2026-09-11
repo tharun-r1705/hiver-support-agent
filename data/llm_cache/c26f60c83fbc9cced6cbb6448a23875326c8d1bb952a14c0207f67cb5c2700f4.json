@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp we have no any call receive from your end for my order\nPlease do the action for order or refund my payment.\nAmazonHelp: @162506 better assistance. 2/2 ^KH\n\nExample 2:\nCustomer: @AmazonHelp Have provided the details for refund please refund my money ASAP\nAmazonHelp: @306235 Thanks for the update. Our teams will reach out to you soon. (1/2) ^VM\n\n\nCustomer Tweet:\n@AmazonHelp we have no any call receive from your end for my order\nPlease do the action for order or refund my payment.\n\nYour Reply:\n",
+  "response": "@YourAccount We’re sorry you haven’t received a call. Our team is reviewing your order and will reach out shortly to resolve it or process a refund. (1/2) ^KH"
+}

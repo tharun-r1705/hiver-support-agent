@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @120465 シーズン7をプライム会員で見れないのか…\nHuluではシーズン8まで見れるのですが… https://t.co/8r0aRScUtx\nAmazonHelp: @531988 プライム・ビデオの対象作品は常に変更されておりますので、適宜ご確認いただければと存じます。お客様に豊富な作品をご提供できるよう、今後ともセレクションの拡大に努めてまいります。 YM\n\nExample 2:\nCustomer: https://t.co/NyAuiFpvBr\nAmazonHelp: @218503 Please reply to the email correspondence here: https://t.co/DTSNmGldJf and we'll be glad to help you. (2/2) ^SI\n\n\nCustomer Tweet:\n@120465 シーズン7をプライム会員で見れないのか…\nHuluではシーズン8まで見れるのですが… https://t.co/8r0aRScUtx\n\nYour Reply:\n",
+  "response": "@120465 ご不便をおかけし申し訳ございません。Prime Video のラインナップは随時更新されており、対象作品は変わることがあります。今後も豊富なコンテンツをご提供できるよう、拡充に努めてまいります。どうぞよろしくお願いいたします。 YM"
+}

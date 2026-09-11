@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: Amazonで注文して今日の午前中届く予定だったのに、荷物の現在地は埼玉県って…\nいつになったら届くんや〜（ ;  ; ）\nAmazonHelp: @467181 Amazonです。ご心配をおかけしております。配送状況につきましては、大変お手数ですが配送業者へ直接ご確認いただきますようお願いいたします（お問い合わせ済みの場合はご容赦ください） SK\n\nExample 2:\nCustomer: Yo necesitaba elevar el espejo de mi tocador y encontré esta solución en @116928 que os parece?\n#Amazon https://t.co/0quPto0kx4\nAmazonHelp: @565800 Hola, Aranzazu. ¡Una solución inteligente y práctica! Espero que estés disfrutando de tu compra. :D ^CR https://t.co/fQfvAHx8nj\n\n\nCustomer Tweet:\nAmazonで注文して今日の午前中届く予定だったのに、荷物の現在地は埼玉県って…\nいつになったら届くんや〜（ ;  ; ）\n\nYour Reply:\n",
+  "response": "ご心配をおかけしております。配送状況につきましては、大変お手数ですが配送業者へ直接ご確認いただけますようお願いいたします。SK"
+}

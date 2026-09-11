@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @116875 cuándo me harán entrega de mi paquete? Lleva una semana atrasado!\nAmazonHelp: @151586 ¡Hola, Karen! Lamentamos el atraso de tu pedido, ¿cuál es la fecha de entrega estimada del paquete? ^LC\n\nExample 2:\nCustomer: @116875 Me acaba de llegar\nAmazonHelp: @435493 Nos alegra saberlo, Ronald. Esperamos que disfrutes mucho de tu juego 😊. ^LG\n\n\nCustomer Tweet:\n@116875 cuándo me harán entrega de mi paquete? Lleva una semana atrasado!\n\nYour Reply:\n",
+  "response": "@116875 ¡Hola! Lamentamos el retraso de tu pedido. ¿Podrías enviarnos el número de orden para revisar la fecha de entrega? ^LC"
+}

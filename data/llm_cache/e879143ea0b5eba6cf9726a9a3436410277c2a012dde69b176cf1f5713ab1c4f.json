@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @115821 still waiting for my microwave to be delivered 🙄 its been 2 weeks\nAmazonHelp: @185622 What is your estimated delivery date?  ^AF\n\nExample 2:\nCustomer: @115821 hello i am still waiting for my packages to be delivered 😐 https://t.co/0uCZYs4oKZ\nAmazonHelp: @219494 Oh no! I'm sorry for the delay! Please use the link to contact in directly so we can look at options: https://t.co/CYqkdUakWJ ^GL\n\n\nCustomer Tweet:\n@115821 still waiting for my microwave to be delivered 🙄 its been 2 weeks\n\nYour Reply:\n",
+  "response": "@115821 Sorry for the delay! Please DM us your order number or use this link so we can check the status and get your microwave to you ASAP: https://t.co/yourlink ^GL"
+}

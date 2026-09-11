@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp  heyy any news on draws updates ?\nAmazonHelp: @172527 The results are out and you can find the winner's list, here: https://t.co/FJpTQ7f8Ch ^MA\n\nExample 2:\nCustomer: @AmazonHelp Any updates on this?\nAmazonHelp: @214140 I'm sorry for the delayed response. Please provide our team with your order details here: https://t.co/YNU9dALp3Q ^RA\n\n\nCustomer Tweet:\n@AmazonHelp  heyy any news on draws updates ?\n\nYour Reply:\n",
+  "response": "@YourHandle The latest draw results are now live—check out the winner’s list here: https://t.co/FJpTQ7f8Ch ^MA"
+}

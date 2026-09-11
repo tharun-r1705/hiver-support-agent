@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp No, Ive not received any email yet.\nAmazonHelp: @255817 We would ask you to wait until Tuesday so that the investigation can be completed, rest assured we will take full responsibility for the non-delivery of our orders.^SM\n\nExample 2:\nCustomer: @AmazonHelp Not received any email yet..\nAmazonHelp: @306171 Kindly check it here: https://t.co/GPcNEfiX1O and let us know. ^NS\n\n\nCustomer Tweet:\n@AmazonHelp No, Ive not received any email yet.\n\nYour Reply:\n",
+  "response": "We’re sorry you haven’t received the email yet. Please check your spam/junk folder, and you can also view the details here: https://t.co/GPcNEfiX1O. Let us know if you still need assistance. ^NS"
+}

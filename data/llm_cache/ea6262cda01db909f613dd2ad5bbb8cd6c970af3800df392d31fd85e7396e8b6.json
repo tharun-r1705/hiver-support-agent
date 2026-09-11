@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: #Amazon logistics. Great toss! https://t.co/486aiESxTz\nAmazonHelp: @742156 I'm so sorry for how your package was delivered, June! Please send us further details so that my team can look into this: https://t.co/iYggqv553N ^AB\n\nExample 2:\nCustomer: @AmazonHelp Amazon Logistics https://t.co/M5ZXkLjRbI\nAmazonHelp: @140412 Merci de vous rapprocher de notre service client via https://t.co/hgIrz98cdI Ce dernier effectuera les vérifications nécessaires concernant cette livraison ^KD\n\n\nCustomer Tweet:\n#Amazon logistics. Great toss! https://t.co/486aiESxTz\n\nYour Reply:\n",
+  "response": "I’m sorry to hear about your delivery experience. Please share more details so we can investigate: https://t.co/iYggqv553N ^AB"
+}

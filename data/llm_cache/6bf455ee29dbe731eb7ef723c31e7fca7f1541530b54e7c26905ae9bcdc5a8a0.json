@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @AmazonHelp @67239 \nWhen can I return the product??? https://t.co/MMJxq3WNhf\nAmazonHelp: @441794 We're working on this and will get back to you as soon as we have an update. Appreciate your patience. ^PS\n\nExample 2:\nCustomer: @AmazonHelp https://t.co/6yCXwqMVkI\n\nWhich is not the product it said when I preordered\nAmazonHelp: @312162 Thanks for confirming! What was the item you purchased? Which item is currently listed here: https://t.co/Y5jpI9gRhE? ^RA\n\n\nCustomer Tweet:\n@AmazonHelp @67239 \nWhen can I return the product??? https://t.co/MMJxq3WNhf\n\nYour Reply:\n",
+  "response": "@67239 We're reviewing your return request and will get back to you shortly with an update. Thanks for your patience. ^PS"
+}

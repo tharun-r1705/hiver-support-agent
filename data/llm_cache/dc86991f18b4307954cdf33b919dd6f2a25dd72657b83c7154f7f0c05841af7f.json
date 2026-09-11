@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an AmazonHelp customer support agent. \nRespond to the following customer tweet. Be empathetic, polite, and brief.\nUse the provided examples of past interactions to match Amazon's brand voice.\n\n\nExample 1:\nCustomer: @115850 The delivery persons number provided has no clue about the parcel. Please look into this\nAmazonHelp: @351784 Sorry about the bad experience. We'd like a closer look, please drop share the details here: https://t.co/GIJyeYqKE0 ^MS\n\nExample 2:\nCustomer: @AmazonHelp The manufacturer provides no reply on this .. Please look into this\nAmazonHelp: @215769 Appreciate your patience and understanding. (4/4) ^VM\n\n\nCustomer Tweet:\n@115850 The delivery persons number provided has no clue about the parcel. Please look into this\n\nYour Reply:\n",
+  "response": "@115850 Sorry about the inconvenience. We’d like to investigate further—please share your order number or DM us the details here: https://t.co/xyz123 ^MS"
+}
