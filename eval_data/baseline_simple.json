@@ -1,0 +1,10 @@
+{
+    "model": "simple_heuristic_baseline",
+    "description": "Rule-based keyword matching for intent and mapped escalation.",
+    "intent": {
+        "accuracy": 0.32
+    },
+    "should_escalate": {
+        "accuracy": 0.7
+    }
+}
