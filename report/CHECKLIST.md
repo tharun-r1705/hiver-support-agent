@@ -9,9 +9,9 @@
 - [x] **Step 3:** Quantitative EDA (notebook/script) on message lengths, response rates, etc.
 - [x] **Step 3:** Half-page EDA summary (to be included in the report's "problem framing").
 - [x] **Step 4:** Intent taxonomy documented in `src/intents/taxonomy.md` (6-12 intents, definitions, examples, out-of-scope note).
-- [ ] **Step 5:** Golden evaluation set `eval_data/golden_set.csv` (150-250 rows with intent, ideal_reply, should_escalate, escalation_reason).
-- [ ] **Step 5:** `eval_data/SAMPLING_NOTE.md` detailing sampling, labeling process, and self-agreement rate.
-- [ ] **Step 6:** Trivial baseline metrics saved to `eval_data/baseline_trivial.json`.
+- [x] **Step 5:** Golden evaluation set `eval_data/golden_set.csv` (150-250 rows with intent, ideal_reply, should_escalate, escalation_reason).
+- [x] **Step 5:** `eval_data/SAMPLING_NOTE.md` detailing sampling, labeling process, and self-agreement rate.
+- [x] **Step 6:** Trivial baseline metrics saved to `eval_data/baseline_trivial.json`.
 - [ ] **Step 7:** Simple baseline metrics saved to `eval_data/baseline_simple.json`.
 - [ ] **Step 8:** Retrieval index implemented and functioning.
 - [ ] **Step 9:** Intent classification implemented and evaluated against golden set baselines.

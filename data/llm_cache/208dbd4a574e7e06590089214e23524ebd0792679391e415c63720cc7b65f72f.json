@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@AmazonHelp Sugiero que cambies la foto puede conllevar a confusión ya que esa opinión es de hace meses. Gracias por responder. Como siempre de 10\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"POSITIVE_FEEDBACK\",\n  \"ideal_reply\": \"¡Gracias por tu comentario y sugerencia! Revisaremos la foto para evitar confusiones y apreciamos mucho tu apoyo.\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

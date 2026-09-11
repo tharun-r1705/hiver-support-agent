@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@AmazonHelp Can you provide me with an email address where I can send all this documentation?\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"OUT_OF_SCOPE\",\n  \"ideal_reply\": \"We don’t have a public email address for sending documentation, but you can upload any required files directly through the Help Center or contact us via chat or phone for further assistance.\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

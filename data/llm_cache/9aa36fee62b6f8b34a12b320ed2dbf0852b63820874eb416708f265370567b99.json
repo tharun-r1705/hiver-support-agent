@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n雨上がって散歩から帰ってきたら荷物届いた\nAmazonから\nカラカラ音がする…\n開けてみた\n爆弾じゃなかった\n頼んだ記憶がなくて注文履歴見てもやっぱり頼んでない…\nキトン…茶トランへのごはんよねこれ…\n誰か送ってくれたのかな…\nでも誰かわからないので使えない…\n誰！誰なのー！😭 https://t.co/hgcKmg3y4g\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"PRODUCT_INQUIRY\",\n  \"ideal_reply\": \"ご不便をおかけして申し訳ありません。ご注文履歴に記録がないとのことですが、念のためご注文番号やお支払い情報をご確認いただけますか？不明な場合は、カスタマーサポートまでご連絡いただければ、詳細を調査いたします。\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

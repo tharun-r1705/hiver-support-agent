@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\n@115850 @AmazonHelp Wow! didn't know that auto order cancelation is as well part of Prime benefits. \n\nO.ID:406-7327998-8113902\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"POSITIVE_FEEDBACK\",\n  \"ideal_reply\": \"Thanks for the shout‑out! We're glad you’re enjoying the auto‑order cancellation benefit as part of Prime.\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}

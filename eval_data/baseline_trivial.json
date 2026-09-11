@@ -1,0 +1,12 @@
+{
+    "model": "trivial_baseline",
+    "description": "Predicts the majority class for all inputs.",
+    "intent": {
+        "majority_class": "DELIVERY_DELAY",
+        "accuracy": 0.2933
+    },
+    "should_escalate": {
+        "majority_class": false,
+        "accuracy": 0.76
+    }
+}

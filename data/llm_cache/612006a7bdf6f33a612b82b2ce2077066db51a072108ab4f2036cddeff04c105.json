@@ -1,0 +1,4 @@
+{
+  "prompt": "You are a customer support labeler.\nAnalyze the following customer tweet and return a JSON object with four keys:\n- \"intent\": one of [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"]\n- \"ideal_reply\": a short, helpful reply\n- \"should_escalate\": boolean true/false\n- \"escalation_reason\": string explaining why if true, else empty string\n\nCustomer Tweet:\nAmazonプライムミュージックにドリカムが入ってるのを発見！JBLに繋いで大音量でお掃除♪♪♪ https://t.co/6b7Rd67uYj\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"POSITIVE_FEEDBACK\",\n  \"ideal_reply\": \"Thank you for sharing! We're thrilled you discovered ドリカム on Amazon Prime Music and are enjoying it with your JBL speaker. Happy cleaning!\",\n  \"should_escalate\": false,\n  \"escalation_reason\": \"\"\n}"
+}
