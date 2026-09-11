@@ -1,10 +1,18 @@
 # Citations
 
 ### Dataset
-- **Customer Support on Twitter**: A large, Kaggle-hosted dataset of tweets and replies from major customer support brands on Twitter.
-  *Kaggle / thoughtvector (2017). Customer Support on Twitter. Retrieved from Kaggle.*
+- **Customer Support on Twitter** — ~3M tweets, multi-turn threads, dozens of brands.
+  Kaggle / thoughtvector (2017). [kaggle.com/datasets/thoughtvector/customer-support-on-twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter)
 
-### Models & Frameworks
-- **Groq & Open Source Models**: Inference powered by Groq's high-speed API endpoints.
-- **LangChain**: Used via `langchain-groq` for basic LLM invocations and structured prompting.
-- **Pandas**: Used heavily for data manipulation, subsampling, and executing our pure-Python in-memory retrieval index.
+### Models & Inference
+- **openai/gpt-oss-120b** — Open-source LLM used for intent classification, escalation routing, reply generation, golden-set labelling, and LLM-as-Judge evaluation.
+- **Groq** — High-speed inference API. [groq.com](https://groq.com)
+
+### Frameworks & Libraries
+- **LangChain** (`langchain-groq`) — LLM invocation and structured prompting. [python.langchain.com](https://python.langchain.com)
+- **Pandas** — Data manipulation, subsampling, and in-memory retrieval index. [pandas.pydata.org](https://pandas.pydata.org)
+- **python-dotenv** — Environment variable management for API keys.
+- **PyArrow / fastparquet** — Parquet file I/O for processed dataset storage.
+
+### AI Coding Assistants
+- AI coding assistants were used freely during development, as permitted by the assignment guidelines. All generated code was reviewed, understood, and can be explained and modified live.
