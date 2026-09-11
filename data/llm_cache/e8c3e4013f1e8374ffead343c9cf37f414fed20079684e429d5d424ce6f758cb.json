@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@AmazonHelp I've placed an order for 8415640102 on the 9/10 but it still hasn't come and I'm just wondering when it will as I need it asap\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"DELIVERY_DELAY\"\n}"
+}

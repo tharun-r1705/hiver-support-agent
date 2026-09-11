@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@115851 @115850 Amazon is taking orders during sales and don't deliver them on account of 'lost in transit'.  Extremely unfair.\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"MISSING_PACKAGE\"\n}"
+}

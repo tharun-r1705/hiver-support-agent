@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@AmazonHelp I have.  All they keep doing is sending me a link to reset my password.  I have called 3X and spoken with a supervisor who assured me this would be fixed within 24 hours.  That was 28 hours ago.  Another associate just told me to make a new account.  /facepalm\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"OUT_OF_SCOPE\"\n}"
+}

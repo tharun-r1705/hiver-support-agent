@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@18220 @12381 \n@115850 @AmazonHelp \nAmazon sold me a product more thn its MRP. \nA product w MRP ₹13,000 is sold at ₹14,140/-\nPlease Help. https://t.co/wVAm4Wmz6n\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"OUT_OF_SCOPE\"\n}"
+}

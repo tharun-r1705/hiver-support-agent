@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@115821 @amazonhelp I'm confused. Why is it when this item is supposed to be on sale, it is never available to be sold by you? #customersince1999 https://t.co/fHe4kovGL1\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"PRODUCT_INQUIRY\"\n}"
+}

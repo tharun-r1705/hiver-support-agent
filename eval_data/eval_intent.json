@@ -1,0 +1,7 @@
+{
+    "model": "llm_intent_classifier",
+    "description": "Zero-shot LLM classification of intent.",
+    "intent": {
+        "accuracy": 0.8667
+    }
+}

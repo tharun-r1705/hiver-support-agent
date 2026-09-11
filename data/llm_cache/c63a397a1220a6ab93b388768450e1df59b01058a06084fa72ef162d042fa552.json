@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert customer support routing agent.\nAnalyze the following customer tweet and return ONLY a JSON object with one key \"intent\".\nThe intent must be one of: [\"DELIVERY_DELAY\", \"MISSING_PACKAGE\", \"ACCOUNT_PAYMENT_ISSUE\", \"CANCELLATION_REFUND\", \"PRODUCT_INQUIRY\", \"POSITIVE_FEEDBACK\", \"OUT_OF_SCOPE\"].\n\nCustomer Tweet:\n@115830 disgusted with how much Packing you have sent for a pin badge! Such a waste... perhaps getting smaller boxes? https://t.co/9P8yhIkx9y\n\nRespond ONLY with valid JSON.\n",
+  "response": "{\n  \"intent\": \"OUT_OF_SCOPE\"\n}"
+}

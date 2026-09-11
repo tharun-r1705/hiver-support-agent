@@ -14,7 +14,7 @@
 - [x] **Step 6:** Trivial baseline metrics saved to `eval_data/baseline_trivial.json`.
 - [x] **Step 7:** Simple baseline metrics saved to `eval_data/baseline_simple.json`.
 - [x] **Step 8:** Retrieval index implemented and functioning.
-- [ ] **Step 9:** Intent classification implemented and evaluated against golden set baselines.
+- [x] **Step 9:** Intent classification implemented and evaluated against golden set baselines.
 - [ ] **Step 10:** Grounded reply generation implemented and saved to `eval_data/generated_replies.csv`.
 - [ ] **Step 11:** Escalation decision logic implemented and evaluated for precision/recall.
 - [ ] **Step 12:** End-to-end evaluation harness `src/eval/run_eval.py`.
