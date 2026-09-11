@@ -17,8 +17,8 @@
 - [x] **Step 9:** Intent classification implemented and evaluated against golden set baselines.
 - [x] **Step 10:** Grounded reply generation implemented and saved to `eval_data/generated_replies.csv`.
 - [x] **Step 11:** Escalation decision logic implemented and evaluated for precision/recall.
-- [ ] **Step 12:** End-to-end evaluation harness `src/eval/run_eval.py`.
-- [ ] **Step 12:** LLM-as-judge built, run, validated, and results saved to `eval_data/judge_results.csv`.
+- [x] **Step 12:** End-to-end evaluation harness `src/eval/run_eval.py`.
+- [x] **Step 12:** LLM-as-judge built, run, validated, and results saved to `eval_data/judge_results.csv`.
 - [ ] **Step 13:** Failure analysis with 5 distinct failure modes and examples.
 - [ ] **Step 14:** "What's Misleading About My Headline Number" section written based on 6 checks.
 - [ ] **Step 14.5:** System Design write-up `report/SYSTEM_DESIGN.md`.
